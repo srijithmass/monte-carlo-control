@@ -33,7 +33,7 @@ The agent receives a reward of 1 for reaching the goal state, and a reward of 0 
 ### Graphical Representation
 <p align='center'>
   
-![image](https://github.com/SaiDarshan2003/monte-carlo-control/assets/94692595/713753ca-27e7-4be9-9eb1-965ff7ffc9e2)
+![image](https://github.com/srijithmass/monte-carlo-control/assets/86846530/c22be73e-c873-4d65-8a3e-2a8f72013222)
 
 </p>
 
@@ -150,9 +150,11 @@ print_policy(optimal_pi, P)
 ```
 
 ## OUTPUT:
-![image](https://github.com/SaiDarshan2003/monte-carlo-control/assets/94692595/b74110c3-6889-468b-a1a9-4b955e5f0df3)
+![image](https://github.com/srijithmass/monte-carlo-control/assets/86846530/d610cfc1-7cc1-403c-a230-2c71aa19f226)
 
-![image](https://github.com/SaiDarshan2003/monte-carlo-control/assets/94692595/948e6603-6b8e-46d7-bd0e-609911283a13)
+
+![image](https://github.com/srijithmass/monte-carlo-control/assets/86846530/a23867b6-920a-4b3b-b4e0-7f8b1370a3d5)
+
 
 ## RESULT:
 We have successfully developed a Python program to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
